@@ -9,10 +9,6 @@
 - @xkeshi/vue-countdown
 
 
-> 店铺信息: sessionStorage
->
-> 用户信息及token:  localStorage
-
 ## mock数据
 
 

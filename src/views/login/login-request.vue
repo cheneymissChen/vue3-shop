@@ -43,7 +43,7 @@
 				<span @click="showKefu = true">联系客服</span>
 			</div>
 			<div class="float-r">
-        <router-link to="/login/registerGetCode">免费注册</router-link>
+        <router-link to="/login/registerGetCode">快速注册</router-link>
       </div>
 		</div>
 
